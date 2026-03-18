@@ -16,8 +16,8 @@ using structure.
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: Karthick Kannan SP
-RegisterNumber:212222060114 
+Developed by: Dharshini M
+RegisterNumber:212222060044 
 */
 #include<stdio.h> 
 struct hardware
